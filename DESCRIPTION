@@ -1,6 +1,6 @@
 Package: qsub
 Title: Running Commands Remotely on 'Gridengine' Clusters
-Version: 1.1.1
+Version: 1.1.2
 Authors@R: c(
     person(
       "Robrecht", 
@@ -28,12 +28,11 @@ BugReports: https://github.com/rcannood/qsub/issues
 RoxygenNote: 7.1.1
 Encoding: UTF-8
 License: GPL-3
-LazyData: true
 NeedsCompilation: no
-Packaged: 2021-01-29 15:12:01 UTC; rcannood
+Packaged: 2021-05-12 08:11:14 UTC; rcannood
 Author: Robrecht Cannoodt [aut, cre] (<https://orcid.org/0000-0003-3641-729X>,
     rcannood),
   Wouter Saelens [aut] (<https://orcid.org/0000-0002-7114-6248>, zouter)
 Maintainer: Robrecht Cannoodt <rcannood@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-01-29 16:00:03 UTC
+Date/Publication: 2021-05-12 08:20:03 UTC
